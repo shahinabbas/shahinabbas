@@ -1,4 +1,4 @@
-![python](https://github.com/shahinabbas/shahinabbas/assets/128583773/54a660a7-a8ee-41d2-a66e-64c6204e881c)# Hi there! **👋**
+# Hi there! **👋**
 
 My name is Shahin Abbas S 
 A self-taught Python and React developer passionate about creating impactful and innovative software solutions. 🚀
