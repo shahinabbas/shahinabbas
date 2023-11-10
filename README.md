@@ -4,8 +4,8 @@ I'm Shahin Abbas S self-taught Python and React developer passionate about creat
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/shahinabbas/)
-- [email](shahinabbas771@gmail.com)
-- Contact - (+91 9037848771)
+- Email: shahinabbas771@gmail.com
+- Contact: +91 9037848771
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript (React)
