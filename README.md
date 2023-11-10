@@ -2,6 +2,11 @@
 
 I'm Shahin Abbas S self-taught Python and React developer passionate about creating impactful and innovative software solutions. 🚀
 
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/shahinabbas/)
+- [email](shahinabbas771@gmail.com)
+- Contact - (+91 9037848771)
+
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript (React)
 - **Frameworks:** Django
@@ -20,9 +25,7 @@ I'm constantly expanding my knowledge by creating web applications and exploring
   - *A platform facilitating easy buying and selling of advertising spaces, built with Django and backed by PostgreSQL.*
 
 
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/shahinabbas/)
-- [email](shahinabbas771@gmail.com)
+
 
   
 Feel free to explore my repositories and reach out! I'm open to collaboration and always excited to learn new things. 😊
