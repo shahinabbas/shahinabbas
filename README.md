@@ -1,6 +1,8 @@
 # Hi there! **👋**
 
-I'm Shahin Abbas S self-taught Python and React developer passionate about creating impactful and innovative software solutions. 🚀
+My name is Shahin Abbas S 
+A self-taught Python and React developer passionate about creating impactful and innovative software solutions. 🚀
+
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/shahinabbas/)
@@ -8,10 +10,7 @@ I'm Shahin Abbas S self-taught Python and React developer passionate about creat
 - Contact: +91 9037848771
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript (React)
-- **Frameworks:** Django
-- **Database:** SQL, MongoDB
-- **Other Skills:** RESTful API development, Git
+
 
 ## 🌱 Current Learning
 I'm constantly expanding my knowledge by creating web applications and exploring new technologies to enhance my skill set.
