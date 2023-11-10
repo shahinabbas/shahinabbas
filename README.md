@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! **👋**
 
 I'm Shahin Abbas S self-taught Python and React developer passionate about creating impactful and innovative software solutions. 🚀
 
